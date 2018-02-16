@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: default
-lang: eu
+language: eu
 permalink: /eu/bloga
 ---
 

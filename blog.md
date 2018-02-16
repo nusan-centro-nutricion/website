@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: default
-lang: es
+language: es
 ---
 
 <ul class="grid">
