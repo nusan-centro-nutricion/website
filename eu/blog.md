@@ -1,0 +1,15 @@
+---
+title: Blog
+layout: default
+lang: eu
+permalink: /eu/bloga
+---
+
+<ul>
+{% assign posts = site.posts | where: 'language', page.lang %}
+{% for posts in posts %}
+<li>
+  {% include post-excerpt.html %}
+</li>
+{% endfor %}
+</ul>
