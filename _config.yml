@@ -42,3 +42,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+
+defaults:
+- scope:
+    path: ""
+    type: posts
+  values:
+    layout: post
