@@ -1,11 +1,11 @@
 items:
   - item:
       - title: Servicios
-        url: /es/servicios
+        url: /servicios
       - title: Blog
-        url: /es/blog
+        url: /blog
       - title: Contacto
-        url: /es/contacto
+        url: /contacto
     language: es
   - item:
       - title: Zerbitzua
