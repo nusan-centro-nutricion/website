@@ -4,7 +4,7 @@ layout: default
 lang: es
 ---
 
-<ul>
+<ul class="grid">
 {% assign posts = site.posts | where: 'language', page.lang %}
 {% for post in posts %}
 <li>
