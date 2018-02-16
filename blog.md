@@ -5,7 +5,7 @@ language: es
 ---
 
 <ul class="grid">
-{% assign posts = site.posts | where: 'language', page.lang %}
+{% assign posts = site.posts | where: 'language', page.language %}
 {% for post in posts %}
 <li>
   {% include post-excerpt.html %}
