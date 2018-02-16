@@ -1,0 +1,17 @@
+items:
+  - item:
+      - title: Servicios
+        url: /es/servicios
+      - title: Blog
+        url: /es/blog
+      - title: Contacto
+        url: /es/contacto
+    language: es
+  - item:
+      - title: Zerbitzua
+        url: /eu/zerbitzua
+      - title: Bloga
+        url: /eu/bloga
+      - title: Kontaktua
+        url: /eu/kontaktua
+    language: eu
