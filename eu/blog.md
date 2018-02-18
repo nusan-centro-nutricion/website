@@ -5,11 +5,9 @@ language: eu
 permalink: /eu/bloga
 ---
 
-<ul class="grid">
+<section class="section--grid">
 {% assign posts = site.posts | where: 'language', page.language %}
 {% for post in posts %}
-<li>
   {% include post-excerpt.html %}
-</li>
 {% endfor %}
-</ul>
+</section>
