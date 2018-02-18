@@ -44,6 +44,8 @@ plugins:
 #   - vendor/ruby/
 
 collections:
+  sections:
+  team:
 
 defaults:
 - scope:

@@ -1,3 +1,8 @@
+---
+title: Metodología
+language: es
+---
+
 Tratamiento dietético personalizado, fácil de seguir, natural y sin recurrir a productos, con el que se alcanzará y mantendrá un estado óptimo de salud. Basado en el cambio de hábitos con la finalidad de conseguir el mantenimiento sin tener que hacer mas dietas.
 El tratamiento dietético está enfocado desde tres perspectivas:
 
