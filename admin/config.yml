@@ -97,4 +97,6 @@ collections:
             widget: list
             fields:
               - {label: "Language", name: "language", widget: "select", options: ["es", "eu"]}
+              - {label: "Link", name: link, widget: string}
+              - {label: "Texto link", name: link-text, widget: string}
               - {label: "Body", name: "body", widget: "markdown"}
