@@ -76,6 +76,10 @@ collections:
               - {label: Telephone, name: telephone, widget: string}
               - {label: Url, name: url, widget: string}
               - {label: Email, name: email, widget: string}
+              - label: Horario
+                name: openingHours
+                widget: list
+                default: []
               - label: Geo
                 name: geo
                 widget: object
