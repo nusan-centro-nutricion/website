@@ -1,5 +1,6 @@
 ---
 title: servicios
+layout: page
 language: es
 order: 1
 ---

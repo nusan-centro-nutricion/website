@@ -1,5 +1,6 @@
 ---
 title: Metodología
+layout: page
 language: es
 order: 2
 ---
