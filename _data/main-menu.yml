@@ -2,6 +2,8 @@ items:
   - item:
       - title: Servicios
         url: /servicios
+      - title: Metodología
+        url: /metodologia
       - title: Blog
         url: /blog
       - title: Contacto
