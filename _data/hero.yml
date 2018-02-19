@@ -6,9 +6,13 @@ texto:
       - Natural
       - Sin productos
     language: es
+    link: /contacto
+    link-text: Saber más
   - body: |-
       - Tratamiento personalizado
       - Fácil
       - Natural
       - Sin productos
     language: eu
+    link: /eu/kontaktua
+    link-text: Saber más
