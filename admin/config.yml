@@ -55,3 +55,30 @@ collections:
                 fields:
                   - {label: Title, name: title, widget: string}
                   - {label: Url, name: url, widget: string}
+
+        - label: "Contacto"
+          name: "direcciones"
+          file: "_data/contacto.yml"
+          fields:
+            - label: Dirección
+              name: direccion
+              widget: "object"
+              fields:
+                - {label: Name, name: name, widget: string}
+                - label: Address
+                  name: address
+                  widget: object
+                  fields:
+                    - {label: Calle, name: streetAddress, widget: string}
+                    - {label: Localidad, name: addressLocality, widget: string}
+                    - {label: Provincia, name: addressRegion, widget: string}
+                    - {label: CP, name: postalCode, widget: string}
+                - {label: Telephone, name: telephone, widget: string}
+                - {label: Url, name: url, widget: string}
+                - {label: Email, name: email, widget: string}
+                - label: Geo
+                  name: geo
+                  widget: object
+                  fields:
+                    - {label: Latitude, name: latitude, widget: string}
+                    - {label: Longitude, name: longitude, widget: string}

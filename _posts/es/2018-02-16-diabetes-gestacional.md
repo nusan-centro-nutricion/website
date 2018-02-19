@@ -8,6 +8,7 @@ language: es
 tags:
   - General
 ---
+
 ## Qué es la diabetes gestacional
 
 La diabetes gestacional es una diabetes que se desarrolla en el embarazo. En la mujer embarazada aparecen muchos cambios. Es por ello que las necesidades nutricionales aumentan, esto es, se necesita mas energía, mas cantidad de nutrientes, como proteínas, hidratos, lípidos, minerales y vitaminas.
@@ -31,8 +32,8 @@ Las mujeres que tienen mayor riesgo de padecer esta enfermedad son las que prese
 * Tener obesidad.
 * Tener algún progenitor, esto es, padre o madre que sea diabético.
 * Ser intolerante a la glucosa.
-* Tener altos niveles de glucosa en orina. 
-* Haber padecido diabetes gestacional en alguno de los otros embarazos. 
+* Tener altos niveles de glucosa en orina.
+* Haber padecido diabetes gestacional en alguno de los otros embarazos.
 
 Otros aspectos a tener en cuenta, aunque no sea síntomas de tan alto riesgo como los anteriores, son los siguientes:
 
