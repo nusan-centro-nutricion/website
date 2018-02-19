@@ -1,2 +1,14 @@
 image: /assets/images/hero-background.jpg
 texto:
+  - body: |-
+      - Tratamiento personalizado
+      - Fácil
+      - Natural
+      - Sin productos
+    language: es
+  - body: |-
+      - Tratamiento personalizado
+      - Fácil
+      - Natural
+      - Sin productos
+    language: eu
