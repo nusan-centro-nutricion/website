@@ -1,0 +1,13 @@
+- name: NUSAN Centro de Nutrición
+  address:
+    streetAddress: Arrasate 43, 1º Oficina 3
+    addressLocality: Donostia - San Sebastián
+    addressRegion: GUI
+    postalCode: 2005
+  telephone: +34667397019,
+  url: https://www.nusannutricion.com,
+  email: cpgnutricion@gmail.com
+  geo:
+    latitude: 43.317463
+    longitude: -1.983644
+  openingHours: ["Mo-Th 14:00-20:30", "Fri 08:00-14:30"]
