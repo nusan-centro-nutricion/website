@@ -2,6 +2,7 @@
 title: servicios
 layout: page
 language: es
+image: /assets/images/uploads/servicios-imagen.png
 order: 1
 ---
 Dieta personalizada para el mantenimiento y mejora de la salud mediante una alimentación equilibrada.

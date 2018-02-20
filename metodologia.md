@@ -2,6 +2,7 @@
 title: Metodología
 layout: page
 language: es
+image: /assets/images/uploads/metodologi-imagen.png
 order: 2
 ---
 
