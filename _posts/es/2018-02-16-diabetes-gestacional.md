@@ -6,7 +6,9 @@ author: Cristina Perez Garay
 image: /assets/images/uploads/diabetes-gestacional-768x512.jpg
 language: es
 tags:
-  - General
+  - Diabetes gestacional
+  - Plan dietético
+  - Tratamiento dietético-nutricional
 ---
 
 ## Qué es la diabetes gestacional
