@@ -1,7 +1,8 @@
 ---
 title: Aviso legal y política de cookies
-layout: default
+layout: page
 language: es
+image: /assets/images/uploads/legal.jpg
 ---
 
 ## Política de Cookies
