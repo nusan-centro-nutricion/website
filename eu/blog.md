@@ -3,7 +3,7 @@ title: Blog
 layout: page
 language: eu
 permalink: /eu/bloga
-image: /assets/images/blog.jpg
+image: /assets/images/uploads/blog.jpg
 ---
 
 <section class="section--grid">

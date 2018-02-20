@@ -2,7 +2,7 @@
 title: Blog
 layout: page
 language: es
-image: /assets/images/blog.jpg
+image: /assets/images/uploads/blog.jpg
 ---
 
 <section class="section--grid">
