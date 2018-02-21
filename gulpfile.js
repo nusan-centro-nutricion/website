@@ -23,14 +23,14 @@ gulp.task('resize-images', function () {
       width: 960,
       height: 720,
       crop: true,
-      upscale: false
+      upscale: true
     }))
     .pipe(gulp.dest('assets/images/medium'))
     .pipe(imageResize({
       width: 300,
       height: 225,
       crop: true,
-      upscale: false
+      upscale: true
     }))
     .pipe(gulp.dest('assets/images/small'))
 })
