@@ -20,8 +20,8 @@ gulp.task('resize-images', function () {
     }))
     .pipe(gulp.dest('assets/images/large'))
     .pipe(imageResize({
-      width: 650,
-      height: 485,
+      width: 960,
+      height: 720,
       crop: true,
       upscale: false
     }))
