@@ -11,7 +11,7 @@ runSequence.options.ignoreUndefinedTasks = true
 gulp.task('resize-images', function () {
   const frontEndImages = gulp.src('assets/images/uploads/*')
 
-  frontEndImages
+  return frontEndImages
     .pipe(imageResize({
       width: 1300,
       height: 975,
@@ -19,8 +19,6 @@ gulp.task('resize-images', function () {
       upscale: true
     }))
     .pipe(gulp.dest('assets/images/large'))
-
-  frontEndImages
     .pipe(imageResize({
       width: 650,
       height: 485,
@@ -28,8 +26,6 @@ gulp.task('resize-images', function () {
       upscale: false
     }))
     .pipe(gulp.dest('assets/images/medium'))
-
-  frontEndImages
     .pipe(imageResize({
       width: 300,
       height: 225,
@@ -37,8 +33,6 @@ gulp.task('resize-images', function () {
       upscale: false
     }))
     .pipe(gulp.dest('assets/images/small'))
-
-  return frontEndImages
 })
 
 gulp.task('jekyll-build', function (done) {
