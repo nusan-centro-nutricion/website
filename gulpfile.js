@@ -7,7 +7,7 @@ const imageResize = require('gulp-image-resize')
 // const newer = require('gulp-newer')
 const runSequence = require('run-sequence')
 
-gulp.task('resize-images', () => {
+gulp.task('resize-images', (done) => {
   const frontEndImages = gulp.src('assets/images/uploads/*')
 
   frontEndImages
@@ -36,12 +36,14 @@ gulp.task('resize-images', () => {
       upscale: false
     }))
     .pipe(gulp.dest('assets/images/small'))
+
+  done()
 })
 
 gulp.task('jekyll-build', function (done) {
   return cp.spawn('bundle', ['exec', 'jekyll', 'build'], {stdio: 'inherit'}).on('close', done)
 })
 
-gulp.task('default', () => {
+gulp.task('default', (done) => {
   runSequence('resize-images', 'jekyll-build')
 })
