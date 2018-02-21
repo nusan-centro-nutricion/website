@@ -42,6 +42,6 @@ gulp.task('jekyll-build', function (done) {
   return cp.spawn('bundle', ['exec', 'jekyll', 'build'], {stdio: 'inherit'}).on('close', done)
 })
 
-gulp.task('default', function (done) {
-  runSequence('resize-images', 'jekyll-build', done())
+gulp.task('default', () => {
+  runSequence('resize-images', 'jekyll-build')
 })
