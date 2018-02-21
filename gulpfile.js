@@ -5,6 +5,7 @@ const cp = require('child_process')
 const imageResize = require('gulp-image-resize')
 // const del = require('del')
 // const newer = require('gulp-newer')
+const runSequence = require('run-sequence')
 
 gulp.task('resize-images', () => {
   const frontEndImages = gulp.src('assets/images/uploads/*')
@@ -41,4 +42,6 @@ gulp.task('jekyll-build', function (done) {
   return cp.spawn('bundle', ['exec', 'jekyll', 'build'], {stdio: 'inherit'}).on('close', done)
 })
 
-gulp.task('default', ['resize-images', 'jekyll-build'])
+gulp.task('default', function (done) {
+  runSequence('resize-images', 'jekyll-build', done())
+})
