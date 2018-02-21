@@ -5,3 +5,4 @@ node_modules
 assets/images/small
 assets/images/medium
 assets/images/large
+*.swp
