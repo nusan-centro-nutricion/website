@@ -37,6 +37,19 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - label: "Equipo en Español"
+    name: "spanish_team"
+    folder: "_team/es"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    filter: {field: "lang", value: "es"}
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Language", name: "lang", widget: "select", options: ["es", "eu"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - label: "Data"
     name: "data"
     files:
