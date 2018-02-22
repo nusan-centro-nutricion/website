@@ -36,7 +36,7 @@ gulp.task('resize-images', function () {
 })
 
 gulp.task('jekyll-build', function (done) {
-  return cp.spawn('bundle', ['exec', 'jekyll', 'build'], {stdio: 'inherit'}).on('close', done)
+  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--config', '_config.yml,_config-translations.yml'], {stdio: 'inherit'}).on('close', done)
 })
 
 gulp.task('default', function (done) {

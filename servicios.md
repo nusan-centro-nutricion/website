@@ -1,7 +1,7 @@
 ---
 title: servicios
 layout: page
-language: es
+lang: es
 image: /assets/images/uploads/servicios.jpg
 order: 1
 ---

@@ -8,7 +8,7 @@ items:
         url: /blog
       - title: Contacto
         url: /contacto
-    language: es
+    lang: es
   - item:
       - title: Zerbitzua
         url: /eu/zerbitzua
@@ -16,4 +16,4 @@ items:
         url: /eu/bloga
       - title: Kontaktua
         url: /eu/kontaktua
-    language: eu
+    lang: eu

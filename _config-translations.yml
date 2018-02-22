@@ -1,0 +1,19 @@
+source_lang: en
+translations:
+  es:
+    Monday: Lunes
+    Tuesday: Martes
+    Wednesday: Miércoles
+    Thursday: Jueves
+    Friday: Viernes
+    Saturday: Sábado
+    Sunday: Domingo
+
+  eu:
+    Monday: Astelehena
+    Tuesday: Asteartea
+    Wednesday: Asteazkena
+    Thursday: Osteguna
+    Friday: Ostilara
+    Saturday: Larunbata
+    Sunday: Igandea

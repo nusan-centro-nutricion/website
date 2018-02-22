@@ -1,6 +1,6 @@
 ---
 layout: home
-language: eu
+lang: eu
 head-includes:
   - netlify-identity-widget.html
 foot-includes:

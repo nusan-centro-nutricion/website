@@ -4,7 +4,7 @@ title: Diabetes Gestacional
 date: 2018-02-16T12:11:45.023Z
 author: Cristina Perez Garay
 image: /assets/images/uploads/diabetes-gestacional-768x512.jpg
-language: es
+lang: es
 tags:
   - Diabetes gestacional
   - Plan dietético
