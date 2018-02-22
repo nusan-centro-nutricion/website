@@ -1,6 +1,6 @@
 ---
 title: Cristina Pérez Garay
-layout: default
+layout: page
 lang: es
 image: /assets/images/uploads/cristina-pg.png
 ---
