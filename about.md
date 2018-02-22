@@ -2,6 +2,7 @@
 layout: page
 title: Acerca
 permalink: /acerca/
+image: /assets/images/uploads/acerca.jpg
 lang: es
 ---
 
