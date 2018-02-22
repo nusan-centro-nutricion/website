@@ -1,19 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca
+permalink: /acerca/
 lang: es
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+El centro de nutrición Nusan, situado en Donostia-San Sebastián, y dirigido por Cristina Pérez Garay, con sus 15 años de experiencia en el campo de la dietética y nutrición, es un centro de Nutrición y Salud.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+En nuestra consulta recibirá un tratamiento dietético y nutricional personalizado, realizando un estudio de sus necesidades, valorando las opciones y desarrollando una estrategia personalizada.
