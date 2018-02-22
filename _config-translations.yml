@@ -8,6 +8,18 @@ translations:
     Friday: Viernes
     Saturday: Sábado
     Sunday: Domingo
+    January: Enero
+    February: Febrero
+    March: Marzo
+    April: Abril
+    May: Mayo
+    June: Junio
+    July: Julio
+    August: Agosto
+    September: Septiembre
+    October: Octubre
+    November: Noviembre
+    December: Diciembre
 
   eu:
     Monday: Astelehena
@@ -17,3 +29,15 @@ translations:
     Friday: Ostilara
     Saturday: Larunbata
     Sunday: Igandea
+    January: Urtarrila
+    February: Otsaila
+    March: Martxoa
+    April: Apirila
+    May: Maitza
+    June: Ekaina
+    July: Uztaila
+    August: Abuztua
+    September: Iraila
+    October: Urria
+    November: Azaroa
+    December: Abendua
