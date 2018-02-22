@@ -1,6 +1,6 @@
 items:
   - item:
-      - tile: Acerca
+      - title: Acerca
         url: /acerca
       - title: Servicios
         url: /servicios
