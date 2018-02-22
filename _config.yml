@@ -46,6 +46,7 @@ plugins:
 collections:
   sections:
   team:
+    output: true
 
 defaults:
 - scope:
